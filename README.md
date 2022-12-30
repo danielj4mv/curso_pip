@@ -1,1 +1,1 @@
-# curso_pip
+# Proyecto del curso de PIP y entornos virtuales
